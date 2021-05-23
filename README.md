@@ -11,4 +11,4 @@ Je ne suis en aucun cas responsable des actions que vous pourriez effectuer en u
 
 # 📍 Contact :
 @ayzun'ᴷᴰᴬ 𐌸#0669
-![Discord](https://discord.gg/nFNgTXrreh)
+https://discord.gg/nFNgTXrreh
