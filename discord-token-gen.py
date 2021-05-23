@@ -2,7 +2,7 @@ import random
 import time
 import datetime
 
-chars = 'AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz0123456789='
+chars = 'AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyZz0123456789'
 
 def localtime():
     time = datetime.datetime.now()
